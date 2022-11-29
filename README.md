@@ -1,0 +1,2 @@
+# Yandex-bugs
+Bug-reports
